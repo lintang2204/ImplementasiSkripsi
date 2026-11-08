@@ -1,0 +1,65 @@
+{
+  "scenario": "S1",
+  "models": [
+    {
+      "filename": "best_baseline_axial_fold_0.keras",
+      "sha256": "9d6e599ef6e5455bae314db8e3941e8b3507feb22ee5f21cd484720b13388a08"
+    },
+    {
+      "filename": "best_baseline_axial_fold_1.keras",
+      "sha256": "f2c07e739f23f14df58bf71ebc2c24bee1d90b414bc0d03af85b661d6f40b896"
+    },
+    {
+      "filename": "best_baseline_axial_fold_2.keras",
+      "sha256": "98c29bd15d22f6613097540de12269ce0366cc33957f7ae68a9783e6a1e2a2a9"
+    },
+    {
+      "filename": "best_baseline_axial_fold_3.keras",
+      "sha256": "c314127cb0d1295c4bd6fc7ec5bb02f7d83df73b757a58fdfefb2f2ff506e225"
+    },
+    {
+      "filename": "best_baseline_axial_fold_4.keras",
+      "sha256": "18b7c8515b2846e0d5b5e405885c19f1fd7f656ccaa4c5378b82a27fda46fd50"
+    },
+    {
+      "filename": "best_baseline_coronal_fold_0.keras",
+      "sha256": "cbc3fbc331d73fb6b971965cef25e417344e5e7dc6bd6c387b056a7e0ea808c5"
+    },
+    {
+      "filename": "best_baseline_coronal_fold_1.keras",
+      "sha256": "1687c8408dcaf2782d2d2e2efb7280ca66be0ba127208ab12fab0a6f0b93b5f3"
+    },
+    {
+      "filename": "best_baseline_coronal_fold_2.keras",
+      "sha256": "4ecc7df9076981b75ce4c8bd551e4759a66fc7c29fdf72c0b7b423e56545bc82"
+    },
+    {
+      "filename": "best_baseline_coronal_fold_3.keras",
+      "sha256": "515cc5cbe4bfd8783d07dc8fd7f650e5a5609ad253a3ea683e8759c888cd9743"
+    },
+    {
+      "filename": "best_baseline_coronal_fold_4.keras",
+      "sha256": "bc2a44c822b4313afe8127a9d873a936385546926e77b684904dd7f97383d4c2"
+    },
+    {
+      "filename": "best_baseline_sagittal_fold_0.keras",
+      "sha256": "45ddde01f33ed9c067db71d1dbd5c2840daf5f9cafb9b593f7b136bbbffe58ac"
+    },
+    {
+      "filename": "best_baseline_sagittal_fold_1.keras",
+      "sha256": "b282b529d2c9be49b30148186b123518e2a389561a69d89eaebafd24ec024afe"
+    },
+    {
+      "filename": "best_baseline_sagittal_fold_2.keras",
+      "sha256": "0d919a7b738e750c87e4fe2ce9f3dca78249fac92de736219de9d36e633ae5ba"
+    },
+    {
+      "filename": "best_baseline_sagittal_fold_3.keras",
+      "sha256": "76fcb4228540246809801d5bf69ca482b647f573fdb025fb181eff154568a5b9"
+    },
+    {
+      "filename": "best_baseline_sagittal_fold_4.keras",
+      "sha256": "54ef6e296378f99d66da60aba3ce4f8d52cceda3a783b9ae05d3319e678033ef"
+    }
+  ]
+}

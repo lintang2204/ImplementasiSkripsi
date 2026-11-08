@@ -1,0 +1,1 @@
+Gunakan python inference.py --import-models "folder ZIP model". Lihat README.md.
